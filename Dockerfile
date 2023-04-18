@@ -5,7 +5,7 @@
 # https://poshc2.readthedocs.io/en/latest/install_and_setup/docker.html
 # https://github.com/nettitude/PoshC2/blob/master/Dockerfile
 
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 LABEL maintainer="Roberto Rodriguez @Cyb3rWard0g"
 LABEL description="Dockerfile PoshC2."
 
